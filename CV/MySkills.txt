@@ -1,3 +1,4 @@
-Compétences : 
-
+Compétence: 
+Angular
+js
 Html / Css
