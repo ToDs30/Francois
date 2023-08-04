@@ -1,0 +1,4 @@
+Compétence: 
+
+Angular
+jsm
